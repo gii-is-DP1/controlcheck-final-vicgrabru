@@ -1,4 +1,4 @@
-# Control Check G2
+# Control Check G2 
 
 This is a fork of https://github.com/spring-projects/spring-petclinic to be used for the Control Check of the G2 of the DP1 course. 
 
